@@ -1,4 +1,4 @@
-- 📫 maximeoger93@proton.me
+📫 maximeoger93@proton.me
 
 <!---
 maximeoger/maximeoger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
