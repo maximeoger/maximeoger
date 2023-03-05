@@ -2,8 +2,8 @@
 📫 maximeoger93@proton.me
 
 <details>
-  <sumary>Mon parcours</>
-     Tout à commencé après l'obtention de mon bac STI2D au lycée l'Essouriau en françe dans le 91. J'ai poursui mes etudes dans une lisence d'etude européenne et internationalle à l'université de saint quentin en yuvelinnes. Au bout de 6 mois, je me suis rendu compte que j'étais loin de ce que je voulais vraiment faire et j'ai décidé d'arrêter.
+  <sumary>Mon parcours</summary>
+     Tout à commencé après l'obtention de mon bac STI2D au lycée l'Essouriau en françe dans le 91. J'ai poursui mes etudes dans une lisence d'etude européenne et internationalle à l'université de Saint-Quentin en Yvelinnes. Au bout de 6 mois, je me suis rendu compte que j'étais loin de ce que je voulais vraiment faire et j'ai décidé d'arrêter.
 
 Je me reprends. Et décide de me lancer dans le graphisme, dans une école parisienne. Ça m'a plus, mais rapidement, je me découvre une certaine curiosité pour les interfaces et le webdesign. Et puis pour les pages HTML. Je trouvais qu'il y avait quelque chose de beau dans cette manière de décrire le code source d'une page web de manière sémantique, et puis le CSS, ce condensé de règles pour styliser la page et lui donner une véritable apparence stylée. Pour JavaScript. Pour moi c'était totalement inconnu, mais je me trouvais fasciné par ce langage que je découvrais à peine et qui me permettais de faire des animations basiques mais ô combien réjouissantes pour moi qui n'étais que débutant à l'époque..
 
