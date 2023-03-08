@@ -11,6 +11,7 @@ Quelques mois après ma formation, je rentre en CDI dans une boutique de jeux de
 
 Je décide donc qu'il est tant de reprendre des études solides dans le développement web. Je m'inscris chez Hetic pour un cursus de 3 ans. Première année intensive pour nous former sur les technos qui allaient me permettre de trouver un contrat d'alternance dans une boite. Beaucoup de projets de groupe, des rencontres sympathiques avec d'autres passionnés du domaine avec des appétences différentes. C'était plutôt cool mais souvent intense. À la fin de cette année, je décroche mon premier contrat en tant que développeur junior dans une start-up qui développe une marketplace dans le milieu de la restauration...
 </details>
+
 <!---
 maximeoger/maximeoger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
