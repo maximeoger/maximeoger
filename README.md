@@ -3,7 +3,7 @@
 
 <details>
   <summary>Lire mon parcours</summary>
-  soon ...
+  soon ... 
 </details>
 
 <!---
