@@ -1,6 +1,6 @@
 
-📫 maximeoger93@proton.me
-🔮 https://maximeoger.com
+- 📫 maximeoger93@proton.me
+- 🔮 https://maximeoger.com
 
 <details>
   <summary>Lire mon parcours</summary>
