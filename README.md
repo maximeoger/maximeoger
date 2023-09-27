@@ -1,10 +1,5 @@
 
 - 📫 maximeoger93@proton.me
-- 
-<details>
-  <summary>Lire mon parcours</summary>
-  soon ...
-</details>
 
 <!---
 maximeoger/maximeoger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
